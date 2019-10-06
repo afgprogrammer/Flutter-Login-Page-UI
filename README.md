@@ -1,16 +1,27 @@
-# day12_login
+# Flutter Beautiful Login Page UI Design and Animation
 
-A new Flutter project.
+Flutter Beautiful Login Page UI Design and Animation - day 12 Flutter Animation and UI Design.
 
-## Getting Started
+This repository is a part of the 100-day design in Flutter.
 
-This project is a starting point for a Flutter application.
+In this video we use, Flutter Animation, Fade, Stack, Positioned, BoxShadow, TextField, Gradient, LinearGradient and so on in the one-speed video.
 
-A few resources to get you started if this is your first Flutter project:
+[Youtube Video](https://youtu.be/NHAIiAmxTAU)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Last Design
+- [UI Design- Day 1](https://github.com/afgprogrammer/flutter-inspiration-app-ui)
+- [UI Design- Day 2](https://github.com/afgprogrammer/Flutter-trip-app-ui)
+- [UI Design- Day 3](https://github.com/afgprogrammer/Flutter-food-delivery-app-ui)
+- [UI Design- Day 4](https://github.com/afgprogrammer/Flutter-actors-profile-app-ui)
+- [UI Design- Day 5](https://github.com/afgprogrammer/Flutter-ripple-map-application)
+- [UI Design- Day 6](https://github.com/afgprogrammer/Flutter-page-transition-animation)
+- [UI Design- Day 7](https://github.com/afgprogrammer/Flutter-button-animation)
+- [UI Design- Day 8](https://github.com/afgprogrammer/Flutter-Splash-Screen-Animation)
+- [UI Design- Day 9](https://github.com/afgprogrammer/Flutter-Party-Event-Application)
+- [UI Design- Day 10](https://github.com/afgprogrammer/Flutter-GridView-Example-UI)
+- [UI Design- Day 11](https://github.com/afgprogrammer/Flutter-Travel-Application)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShot
+
+<img src="assets/screenshot/one.png" height="500em" />
+
