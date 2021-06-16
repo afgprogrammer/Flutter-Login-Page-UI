@@ -32,7 +32,7 @@ flutter run
 
 ## Links
 
-* [Web site](https://afgprogrammer.com)
+* [Website](https://afgprogrammer.com)
 * [Youtube channel](https://youtube.com/afgprogrammer)
 * [Twitter](https://twitter.com/afgprogrammer)
 * [Instagram](https://instagram.com/afgprogrammer)
