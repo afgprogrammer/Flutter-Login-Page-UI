@@ -1,34 +1,22 @@
 ## Flutter Beautiful Login Page UI Design and Animation
 
-This repository is a port of flutter-100-days-of-code. In this repository we will create a beautiful login page UI with animation.
+A part of #flutter100daysofcode. Let's create a beautiful and animated login page UI with Flutter.
 
-In this video we use, Flutter Animation, Fade, Stack, Positioned, BoxShadow, TextField, Gradient, LinearGradient and so on in the one-speed video.
-
-[Youtube Video](https://youtu.be/NHAIiAmxTAU)
-
+[Watch it on Youtube](https://youtu.be/NHAIiAmxTAU)
+<br><br>
 ## Previous Designs
-- [Flutter UI Design- Day 1](https://github.com/afgprogrammer/flutter-inspiration-app-ui)
-- [Flutter UI Design- Day 2](https://github.com/afgprogrammer/Flutter-trip-app-ui)
-- [Flutter UI Design- Day 3](https://github.com/afgprogrammer/Flutter-food-delivery-app-ui)
-- [Flutter UI Design- Day 4](https://github.com/afgprogrammer/Flutter-actors-profile-app-ui)
-- [Flutter UI Design- Day 5](https://github.com/afgprogrammer/Flutter-ripple-map-application)
-- [Flutter UI Design- Day 6](https://github.com/afgprogrammer/Flutter-page-transition-animation)
-- [Flutter UI Design- Day 7](https://github.com/afgprogrammer/Flutter-button-animation)
-- [Flutter UI Design- Day 8](https://github.com/afgprogrammer/Flutter-Splash-Screen-Animation)
-- [Flutter UI Design- Day 9](https://github.com/afgprogrammer/Flutter-Party-Event-Application)
-- [Flutter UI Design- Day 10](https://github.com/afgprogrammer/Flutter-GridView-Example-UI)
-- [Flutter UI Design- Day 11](https://github.com/afgprogrammer/Flutter-Travel-Application)
-
-## ScreenShots
-
-<img src="assets/screenshot/one.png" height="500em" />
-
+[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
+<br><br>
 ## Development Setup
 Clone the repository and run the following commands:
 ```
 flutter pub get
 flutter run
 ```
+
+## ScreenShots
+
+<img src="assets/screenshot/one.png" height="500em" />
 
 ## Links
 
