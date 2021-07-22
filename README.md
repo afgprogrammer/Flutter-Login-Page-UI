@@ -1,11 +1,11 @@
-## Flutter Beautiful Login Page UI Design and Animation
+## Flutter Beautiful Login Page UI Design and Animation - Day 12
 
 ```dart
 class Day12 extends Flutter100DaysOfCode {
-  today() {
+  video() {
     return {
       "title": "Flutter Beautiful Login Page UI Design and Animation",
-      "description": "Let's see how we can design a Login page UI and add some cool animation.
+      "description": "Let's see how we can design a Login page UI and add some cool animation.",
       "day": 12,
       "videoLink": "https://youtu.be/NHAIiAmxTAU"
     }
